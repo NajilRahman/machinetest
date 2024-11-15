@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "id": "a638",
+      "userId": 2,
+      "title": "sdsd",
+      "body": "asdasd"
+    },
+    {
+      "id": "3fa7",
+      "userId": 22,
+      "title": "sdsd",
+      "body": "sadasd"
+    },
+    {
+      "id": "c5b3",
+      "userId": 2,
+      "title": "sdad",
+      "body": "asdasd"
+    },
+    {
+      "id": "a002",
+      "userId": 2,
+      "title": "najil",
+      "body": "najilrahman"
+    },
+    {
+      "id": "5d26",
+      "userId": 2,
+      "title": "najil",
+      "body": "najil"
+    },
+    {
+      "id": 101,
+      "userId": "2",
+      "title": "najil",
+      "body": "najilw",
+      "isFromJsonServer": false
+    },
+    {
+      "id": 101,
+      "title": "",
+      "body": "",
+      "isFromJsonServer": false
+    },
+    {
+      "id": 101,
+      "title": "najil",
+      "body": "body",
+      "isFromJsonServer": false
+    },
+    {
+      "id": 101,
+      "title": "sdsd",
+      "body": "asdads",
+      "isFromJsonServer": false
+    },
+    {
+      "id": 101,
+      "title": "asd",
+      "body": "asdasd",
+      "isFromJsonServer": false
+    },
+    {
+      "id": 101,
+      "title": "asd",
+      "body": "asdad",
+      "isFromJsonServer": false
+    },
+    {
+      "id": 101,
+      "title": "sdsd",
+      "body": "sdsd",
+      "isFromJsonServer": false
+    }
+  ]
+}
